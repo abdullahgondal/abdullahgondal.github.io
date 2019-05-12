@@ -96,7 +96,7 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
+            "sticky": false,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#301c00",
@@ -156,7 +156,7 @@
           },
           "title": "WELCOME TO LIFE",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#content2-4\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
