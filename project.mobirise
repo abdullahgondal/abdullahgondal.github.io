@@ -22,7 +22,8 @@
       },
       "additionalSetColors": [
         "#332209",
-        "#301c00"
+        "#301c00",
+        "#211400"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -177,7 +178,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#211400"
           },
           "text": "<blockquote><p><span style=\"font-style: normal;\">Life is strange. It’s filled with all kinds of twists and turns. Some days are up and some days are down. It is up to us to navigate the roaring river that is life. \n<span style=\"font-size: 1.09rem;\">The culmination of over 2 years of hard work, Welcome to Life paints a surreal picture of the crazy world we all reside in. </span><span style=\"font-size: 1.09rem;\">So yourself navigate childhood, become an adult, get a job, settled down, find a partner, have children, and all of the other things that would be considered milestones in our society.&nbsp;</span><span style=\"font-size: 1.09rem;\">Except the world you live in isn’t our society. It is an nightmarish version of this world.</span></span></p></blockquote>",
           "_tags": [
