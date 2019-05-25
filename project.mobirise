@@ -7,16 +7,16 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#c0a375",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#211400",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#211400",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       },
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 5,
+    "uniqCompNum": 7,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png"
   },
@@ -74,10 +74,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#211300!important"
+              "background": "#120b00!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#301c00"
+              "background": "#211400"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -100,7 +100,7 @@
             "sticky": false,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#301c00",
+            "bgColor": "#211400",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -113,7 +113,7 @@
               "src": "@PROJECT_PATH@/assets/images/20190511-223735-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "",
               "title": ""
             },
             "iconFont": {
@@ -140,7 +140,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1238.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#000000",
@@ -152,8 +152,8 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#211400",
+            "overlayOpacity": "0.9"
           },
           "title": "WELCOME TO LIFE",
           "text": "",
@@ -166,7 +166,8 @@
           "_styles": {
             ".mbr-section-title": {
               "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "color": "#fac51c"
             },
             ".btn": {
               "font-family": "'Montserrat', sans-serif",
@@ -195,6 +196,45 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#301c00"
+          },
+          "title": "HELP US BUILD THE GAME",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#301c00"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">JOIN OUR TALENTED TEAM</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-5"
         }
       ]
     }
