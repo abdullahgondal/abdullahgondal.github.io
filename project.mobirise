@@ -23,7 +23,8 @@
       "additionalSetColors": [
         "#332209",
         "#301c00",
-        "#211400"
+        "#211400",
+        "#432900"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -141,7 +142,7 @@
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#000000",
             "bgVideoRadio": false,
